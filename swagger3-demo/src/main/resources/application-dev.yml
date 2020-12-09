@@ -1,0 +1,8 @@
+server:
+  port: 8088
+
+# 开启文档的显示
+springfox:
+  documentation:
+    swagger-ui:
+      enabled: true

@@ -1,0 +1,6 @@
+server:
+  port: 8089
+springfox:
+  documentation:
+    swagger-ui:
+      enabled: false
